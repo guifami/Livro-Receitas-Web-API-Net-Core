@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qRhAV5lNpacoot0UWzYQ2igcIAGY3EynhBipAcrTvVM=",
+  "Source": "LivroDeReceitas.Api",
+  "BasePath": "_content/LivroDeReceitas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

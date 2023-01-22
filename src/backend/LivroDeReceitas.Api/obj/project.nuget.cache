@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGcpK7tCMiiTt6qsDT9J8kCWZ6YQ3PYfLYVYbWMtfOnTKIhptvYq7b+d7Bd6bUOaWpfU3Qu9GE/fyuSXhlpNzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Documents\\Projetos\\Livro-Receitas-Web-API-Net-Core\\src\\backend\\LivroDeReceitas.Api\\LivroDeReceitas.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
