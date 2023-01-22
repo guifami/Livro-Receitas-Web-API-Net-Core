@@ -1,0 +1,15 @@
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\bin\Debug\net6.0\LivroDeReceitas.Infrastructure.deps.json
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\bin\Debug\net6.0\LivroDeReceitas.Infrastructure.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\bin\Debug\net6.0\LivroDeReceitas.Infrastructure.pdb
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\bin\Debug\net6.0\LivroDeReceitas.Domain.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\bin\Debug\net6.0\LivroDeReceitas.Domain.pdb
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\LivroDeReceitas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\LivroDeReceitas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\LivroDeReceitas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\LivroDeReceitas.Infrastructure.AssemblyInfo.cs
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\LivroDeReceitas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\LivroDeReceitas.Infrastructure.csproj.CopyComplete
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\LivroDeReceitas.Infrastructure.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\refint\LivroDeReceitas.Infrastructure.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\LivroDeReceitas.Infrastructure.pdb
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Infrastructure\obj\Debug\net6.0\ref\LivroDeReceitas.Infrastructure.dll

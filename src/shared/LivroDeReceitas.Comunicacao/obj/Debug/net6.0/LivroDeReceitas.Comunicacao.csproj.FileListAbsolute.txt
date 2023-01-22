@@ -1,0 +1,12 @@
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\bin\Debug\net6.0\LivroDeReceitas.Comunicacao.deps.json
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\bin\Debug\net6.0\LivroDeReceitas.Comunicacao.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\bin\Debug\net6.0\LivroDeReceitas.Comunicacao.pdb
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.csproj.AssemblyReference.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.AssemblyInfo.cs
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\refint\LivroDeReceitas.Comunicacao.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.pdb
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\ref\LivroDeReceitas.Comunicacao.dll

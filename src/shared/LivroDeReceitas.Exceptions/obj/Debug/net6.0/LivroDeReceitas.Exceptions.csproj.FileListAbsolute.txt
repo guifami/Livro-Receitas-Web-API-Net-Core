@@ -1,0 +1,12 @@
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\bin\Debug\net6.0\LivroDeReceitas.Exceptions.deps.json
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\bin\Debug\net6.0\LivroDeReceitas.Exceptions.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\bin\Debug\net6.0\LivroDeReceitas.Exceptions.pdb
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.csproj.AssemblyReference.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.AssemblyInfo.cs
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\refint\LivroDeReceitas.Exceptions.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.pdb
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\ref\LivroDeReceitas.Exceptions.dll
