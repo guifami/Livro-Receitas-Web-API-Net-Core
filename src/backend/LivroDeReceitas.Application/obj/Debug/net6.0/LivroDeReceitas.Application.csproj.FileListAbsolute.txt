@@ -17,3 +17,4 @@ C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\Livr
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Application\obj\Debug\net6.0\refint\LivroDeReceitas.Application.dll
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Application\obj\Debug\net6.0\LivroDeReceitas.Application.pdb
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Application\obj\Debug\net6.0\ref\LivroDeReceitas.Application.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Application\bin\Debug\net6.0\en\LivroDeReceitas.Exceptions.resources.dll

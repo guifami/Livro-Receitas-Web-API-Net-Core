@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vWYEE2gXUny6BqifG7bhenQ69rKdL/sU8vj/e4wlFlywuTBr/aDLouHZ98jL/5O7DydwdKjcGUBhq+oj0BgtOA==",
+  "dgSpecHash": "xVoRwcL1r6SoZXcCfHJjis9ZMMJfvB76/koCsjO0fMkiuCwKq1bOr+ObdbYqs7IocrBe7gjm2UcZlT2D3xZEbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\AMD\\Documents\\Projetos\\Livro-Receitas-Web-API-Net-Core\\src\\shared\\LivroDeReceitas.Comunicacao\\LivroDeReceitas.Comunicacao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

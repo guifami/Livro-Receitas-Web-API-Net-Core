@@ -19,7 +19,7 @@ namespace LivroDeReceitas.Infrastructure.RepositoryAccess.Repository
 
         public async Task<bool> ExisteUsuarioComEmail(string email)
         {
-            return await _context.Usuarios.AnyAsync(c => c.DS_EMAIL.Equals(email));
+            return await _context.Usuarios.AnyAsync(c => c.Email.Equals(email));
         }
     }
 }

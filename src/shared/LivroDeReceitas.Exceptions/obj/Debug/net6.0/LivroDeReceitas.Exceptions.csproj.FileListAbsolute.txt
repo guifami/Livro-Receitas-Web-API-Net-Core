@@ -10,3 +10,8 @@ C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\Livro
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\refint\LivroDeReceitas.Exceptions.dll
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.pdb
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\ref\LivroDeReceitas.Exceptions.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\bin\Debug\net6.0\en\LivroDeReceitas.Exceptions.resources.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.ResourceMensagensDeErro.resources
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.ResourceMensagensDeErro.en.resources
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\LivroDeReceitas.Exceptions.csproj.GenerateResource.cache
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Exceptions\obj\Debug\net6.0\en\LivroDeReceitas.Exceptions.resources.dll

@@ -9,6 +9,11 @@
       "LivroDeReceitas.Exceptions/1.0.0": {
         "runtime": {
           "LivroDeReceitas.Exceptions.dll": {}
+        },
+        "resources": {
+          "en/LivroDeReceitas.Exceptions.resources.dll": {
+            "locale": "en"
+          }
         }
       }
     }

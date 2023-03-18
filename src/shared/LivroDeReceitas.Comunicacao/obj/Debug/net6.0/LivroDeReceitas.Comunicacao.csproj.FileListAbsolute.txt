@@ -10,3 +10,6 @@ C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\Livro
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\refint\LivroDeReceitas.Comunicacao.dll
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.pdb
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\ref\LivroDeReceitas.Comunicacao.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\bin\Debug\net6.0\LivroDeReceitas.Domain.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\bin\Debug\net6.0\LivroDeReceitas.Domain.pdb
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\shared\LivroDeReceitas.Comunicacao\obj\Debug\net6.0\LivroDeReceitas.Comunicacao.csproj.CopyComplete

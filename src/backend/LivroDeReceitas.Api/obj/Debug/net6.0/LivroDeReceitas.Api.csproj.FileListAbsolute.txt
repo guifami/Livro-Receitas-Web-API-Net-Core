@@ -99,3 +99,7 @@ C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\Livr
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Api\bin\Debug\net6.0\en\LivroDeReceitas.Exceptions.resources.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\AMD\Documents\Projetos\Livro-Receitas-Web-API-Net-Core\src\backend\LivroDeReceitas.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

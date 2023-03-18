@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L2VNGEjoXi0EE/0Uxj12zsScMK1LJKwNXbvJTL+Qr8YiJjXWMRvXS3ayvoTVjhE0jZRdOb8AE9Dv4viK8bppKA==",
+  "dgSpecHash": "xkqeS9PFHHSupylF2dODY/VI7PaeTzp9eBozApHdi9BLr6IQtbwh1OLSALuYNdSWCHj88gCzuk7XXYoBdIxP4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\AMD\\Documents\\Projetos\\Livro-Receitas-Web-API-Net-Core\\src\\backend\\LivroDeReceitas.Infrastructure\\LivroDeReceitas.Infrastructure.csproj",
   "expectedPackageFiles": [

@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Vm8dzK8y1F60zL2ZFOGarqIVNwug2jZXR2IGwp+5pOzc9EESZSmE3c771jos/w9h0GpVprYmuaUPP+ItMzzE5g==",
+  "dgSpecHash": "VNoiyNWvclvtOJxTGFO8Kn8dK9AKI9EM0a8r2wZJ+3W8HgJ0VB6Ue85wt0xi5lml88o3CYy9HLgaPXs0mNJBIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\AMD\\Documents\\Projetos\\Livro-Receitas-Web-API-Net-Core\\src\\backend\\LivroDeReceitas.Application\\LivroDeReceitas.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\AMD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],

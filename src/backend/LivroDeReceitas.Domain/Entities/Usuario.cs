@@ -1,12 +1,10 @@
 ﻿namespace LivroDeReceitas.Domain.Entities
 {
-    public class Usuario
+    public class Usuario : EntidadeBase
     {
-        public long ID_USUARIO { get; set; }
-        public DateTime DT_CRIACAO { get; set; }
-        public string DS_NOME { get; set; }
-        public string DS_EMAIL { get; set; }
-        public string DS_SENHA { get; set; }
-        public string DS_TELEFONE { get; set; }
+        public string Nome { get; set; }
+        public string Email { get; set; }
+        public string Senha { get; set; }
+        public string Telefone { get; set; }
     }
 }
